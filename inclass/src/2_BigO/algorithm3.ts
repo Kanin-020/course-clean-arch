@@ -1,6 +1,6 @@
-/* 
+/*
   PLEASE WRITE YOUR ANSWERS IN THE ANSWER CONSTANT
-  TO CHECK IF YOUR ANSWERS ARE CORRECT RUN 
+  TO CHECK IF YOUR ANSWERS ARE CORRECT RUN
   npm run practice -- bigO
 
     - ALWAYS IN FORMAT O(answer)
@@ -12,7 +12,7 @@
 // ----- YOUR ANSWERS ------
 // assume your answer contains A and B
 
-export const ANSWER_C = 'O(1)'
+export const ANSWER_C = 'O(AB)'
 
 // ------------------------
 

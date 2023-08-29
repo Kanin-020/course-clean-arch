@@ -1,7 +1,7 @@
-/* 
+/*
   PLEASE WRITE YOUR ANSWERS IN THE ANSWER CONSTANT
-  TO CHECK IF YOUR ANSWERS ARE CORRECT RUN 
-  npm run practice -- bigO 
+  TO CHECK IF YOUR ANSWERS ARE CORRECT RUN
+  npm run practice -- bigO
 
     - ALWAYS IN FORMAT O(answer)
     - TO USE THE POWER SYMBOL WRITE ^ LIKE IF YOU WANT O(2^n)
@@ -11,7 +11,7 @@
 
 // ----- YOUR ANSWERS ------
 
-export const ANSWER_B = 'O(1)'
+export const ANSWER_B = 'O(2n)'
 
 // ------------------------
 

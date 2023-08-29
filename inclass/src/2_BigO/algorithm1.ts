@@ -1,6 +1,6 @@
-/* 
+/*
   PLEASE WRITE YOUR ANSWERS IN THE ANSWER CONSTANT
-  TO CHECK IF YOUR ANSWERS ARE CORRECT RUN 
+  TO CHECK IF YOUR ANSWERS ARE CORRECT RUN
   npm run practice -- bigO
 
     - ALWAYS IN FORMAT O(answer)
@@ -11,12 +11,13 @@
 
 // ----- YOUR ANSWERS ------
 
-export const ANSWER_A = 'O(1)'
+export const ANSWER_A = 'O(2^n)'
 
 // ------------------------
 
 export const f = (n: number) => {
   if (n === 1) return 1
+
 
   return f(n - 1) + f(n - 2)
 }

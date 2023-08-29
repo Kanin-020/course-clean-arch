@@ -1,6 +1,6 @@
-/* 
+/*
   PLEASE WRITE YOUR ANSWERS IN THE ANSWER CONSTANT
-  TO CHECK IF YOUR ANSWERS ARE CORRECT RUN 
+  TO CHECK IF YOUR ANSWERS ARE CORRECT RUN
   npm run practice -- bigO
 
     - ALWAYS IN FORMAT O(answer)
@@ -12,8 +12,8 @@
 // ----- YOUR ANSWERS ------
 //This algorithm is a very famous one.
 
-export const ANSWER_J = 'O(1)'
-export const EXTRA_POINT2 = 'what algorythm is'
+export const ANSWER_J = 'O(n log n )'
+export const EXTRA_POINT2 = 'quick sort'
 
 // ------------------------
 
